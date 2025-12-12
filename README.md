@@ -36,12 +36,10 @@ math.html
 
 <html>
 <head>
-<meta charset='utf-8'>
-<meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>MILEAGE</title>
 <title>Vishnu Priya A K (25018523)</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<style type="text/css">
+<style>
 body
 {
 background-color:014D4E;
