@@ -32,16 +32,14 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
-math.html
-
 <html>
 <head>
 <title>MILEAGE</title>
 <title>Vishnu Priya A K (25018523)</title>
-<style>
-body
-{
+<style type="text/css">
+body{
 background-color:014D4E;
+}
 .edge {
 width: 1440px;
 margin-left: auto;
